@@ -1,0 +1,5 @@
+firebase
+-> create db
+-> build -> realtime -> create db -> test-mode
+
+"https://testproject-73b4c-default-rtdb.firebaseio.com/cart.json" {/cart.json to create node}
